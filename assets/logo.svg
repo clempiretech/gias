@@ -1,0 +1,10 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#0B4F8A"/>
+  <path d="M19 40C26 28 38 24 45 24C52 24 57 29 57 36" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="34" r="13" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M32 16V48" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16 32H48" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27 14L32 10L37 14" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="78" y="38" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#0B4F8A">GIAS</text>
+  <text x="78" y="54" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#2F3F57">Global Institute of Advanced Studies</text>
+</svg>
